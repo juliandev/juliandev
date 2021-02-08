@@ -2,10 +2,10 @@
 
 I'm a Software Engineer specialised in backend development.
 
-Fast learner and eager to explore new technologies. <br/>
-Always questioning the status quo and wanting to improve. <br/>
-Able and willing to think outside the box. <br/>
-Fan of technology, entrepreneurship, web development. <br/>
+- ⚙️ Fast learner and eager to explore new technologies. <br/>
+- 🤔 Always questioning the status quo and wanting to improve. <br/>
+- ⚡️ Able and willing to think outside the box. <br/>
+- 🌱Fan of technology, entrepreneurship, web development. <br/>
 
 <!--
 **juliandev/juliandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
